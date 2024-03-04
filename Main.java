@@ -12,7 +12,7 @@ class Main {
     3. Allow user to enter new grocery item  and write to new file (done)
     4. Allow user to view original grocery list (done)
     5. Allow user to have options of actions (done)
-    6. Allow user to update/ modify item (done)
+    6. Allow user to update/ modify item (done)1
     7. Allow user to remove item from list (done)
     Complex methods: 
     8. Allow user to search for existing item (done) 
