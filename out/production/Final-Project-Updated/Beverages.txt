@@ -1,0 +1,15 @@
+Beer
+Club soda
+Champagne
+Gin
+Juice
+Mixers
+Red wine
+Rum
+Sake
+Soda pop
+Sports drink
+Tonic
+Whiskey
+White wine
+Vodka
